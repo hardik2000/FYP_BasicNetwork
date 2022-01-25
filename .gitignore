@@ -40,7 +40,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-
+/home/testingvm/BasicNetwork-2.0/api-2.0/node_modules/
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
